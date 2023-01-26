@@ -43,14 +43,14 @@
 		}
 	},
 
-  "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "echo"
-    }
-  },
+        "formation": {
+          "web": {
+            "quantity": 1,
+            "size": "echo"
+          }
+        },
 
-  "stack": "heroku-22",
+        "stack": "heroku-22",
 
 	"buildpacks": [
 		{
